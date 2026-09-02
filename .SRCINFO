@@ -1,7 +1,7 @@
 pkgbase = synstudio
 	pkgdesc = SynapseOS darkroom and edit suite: RAW develop, masks, and a graded video timeline with a cutting room
 	pkgver = 0.1.0
-	pkgrel = 47
+	pkgrel = 48
 	url = https://github.com/velle999/SYNAPSE
 	arch = x86_64
 	license = GPL-2.0-or-later
@@ -13,7 +13,7 @@ pkgbase = synstudio
 	optdepends = quickshell: the window — darkroom and cutting room (synstudio gui)
 	optdepends = qt6-multimedia: playing the timeline back (the ▶ button)
 	optdepends = libraw: Canon, Nikon, Sony, Fuji and Olympus camera raw
-	source = synstudio-0.1.0.tar.gz::https://github.com/velle999/synstudio/releases/download/0.1.0-47/synstudio-0.1.0.tar.gz
+	source = synstudio-0.1.0.tar.gz::https://github.com/velle999/synstudio/releases/download/0.1.0-48/synstudio-0.1.0.tar.gz
 	sha256sums = SKIP
 
 pkgname = synstudio
